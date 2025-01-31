@@ -38,7 +38,7 @@ As a Full Stack Developer, I am passionate about building scalable, high-perform
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/surajgadapa/Projects)**
 - 💬 Ask me about **.NET Core, ASP.NET, Angular, React, Azure, AWS, SQL Server, MongoDB**
 - 📫 How to reach me: **surajrao9411@gmail.com**
-- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/suraj-gadapa/)**
+- 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/suraj-gadapa-86897b192/details/experience/)**
 - ⚡ Fun fact: **I love solving complex system design challenges**
 
 <br>
