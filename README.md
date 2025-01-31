@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Gadapa </h1>
+z<h1 align="center">Hi 👋, I'm Suraj Gadapa </h1>
 <h3 align="center">Detail-oriented <strong>Full Stack Developer</strong> with expertise in .NET, ASP.NET Core, Angular, React, cloud platforms (Azure, AWS), and DevOps, proven in designing scalable applications, optimizing performance, automating workflows, and driving business growth through innovative and efficient software solutions.</h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ As a Full Stack Developer, I am passionate about building scalable, high-perform
 
 - 🔭 I’m currently working as a **Full Stack Developer**
 - 🌱 Exploring **AI, Cloud, and DevOps Technologies**
-- 👨‍💻 All of my projects are available on **[GitHub]([https://github.com/surajgadapa/Projects))**
+- 👨‍💻 All of my projects are available on **[GitHub]((https://github.com/surajgadapa/Projects))**
 - 💬 Ask me about **.NET Core, ASP.NET, Angular, React, Azure, AWS, SQL Server, MongoDB**
 - 📫 How to reach me: **surajrao9411@gmail.com**
 - 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/suraj-gadapa/)**
