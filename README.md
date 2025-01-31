@@ -27,18 +27,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon" width="50" height="50" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="icon" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Core_Logo.svg" alt="icon" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/EFLogo.png" alt="icon" width="50" height="50" />
+>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
