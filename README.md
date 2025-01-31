@@ -23,7 +23,6 @@ As a Full Stack Developer, I am passionate about building scalable, high-perform
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/AJAX_logo_by_gengns.svg" alt="icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="icon" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="icon" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="icon" width="50" height="50" />
 </div>
