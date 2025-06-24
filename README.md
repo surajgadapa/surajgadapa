@@ -27,7 +27,6 @@ My experience spans both frontend and backend development, integrating modern fr
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="icon" width="50" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="icon" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
