@@ -1,8 +1,12 @@
 z<h1 align="center">Hi 👋, I'm Suraj Gadapa </h1>
-<h3 align="center">Detail-oriented <strong>Full Stack Developer</strong> with expertise in .NET, ASP.NET Core, Angular, React, cloud platforms (Azure, AWS), and DevOps, proven in designing scalable applications, optimizing performance, automating workflows, and driving business growth through innovative and efficient software solutions.</h3>
+<h3 align="center">Detail-oriented <strong>Full Stack Developer</strong> With expertise in AEM, Java, Spring Boot, Angular, React, cloud platforms (AWS, Azure), and DevOps, proven in designing scalable web applications, optimizing performance, automating content workflows, and driving business growth through innovative and efficient digital experience solutions.</h3>
 
 <p align="center">
-As a Full Stack Developer, I am passionate about building scalable, high-performing applications that drive business transformation. With expertise in .NET, ASP.NET Core, Angular, React, cloud platforms (Azure, AWS), and DevOps, I specialize in designing and developing efficient, secure, and seamless software solutions. My experience spans frontend and backend development, integrating modern frameworks, optimizing databases, and implementing automation to enhance performance. I thrive on solving technical challenges, adopting emerging technologies, and collaborating with cross-functional teams to create innovative and resilient architectures that optimize processes and enhance user experiences.🛠️
+As a Full Stack Developer, I am passionate about building scalable, high-performing web applications that enable digital transformation. With expertise in Adobe Experience Manager (AEM), Java, Spring Boot, Angular, React, and cloud platforms like AWS and Azure, I specialize in designing and delivering secure, efficient, and content-driven software solutions.
+
+My experience spans both frontend and backend development, integrating modern frameworks, optimizing performance, and automating content workflows. I thrive on solving complex technical challenges, exploring emerging technologies, and working with cross-functional teams to build innovative, resilient architectures that enhance user experiences and streamline enterprise processes.
+
+🛠️
 </p>
 
 <p align="center"> 
@@ -34,7 +38,7 @@ As a Full Stack Developer, I am passionate about building scalable, high-perform
 - 🔭 I’m currently working as a **Full Stack Developer**
 - 🌱 Exploring **AI, Cloud, and DevOps Technologies**
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/surajgadapa/Projects)**
-- 💬 Ask me about **.NET Core, ASP.NET, Angular, React, Azure, AWS, SQL Server, MongoDB**
+- 💬 Ask me about **Java, AEM, Angular, Spring boat React, Azure, AWS, SQL Server, MongoDB**
 - 📫 How to reach me: **surajrao9411@gmail.com**
 - 📄 Know about my experiences on **[LinkedIn](https://www.linkedin.com/in/suraj-gadapa-86897b192/details/experience/)**
 - ⚡ Fun fact: **I love solving complex system design challenges**
@@ -56,7 +60,7 @@ As a Full Stack Developer, I am passionate about building scalable, high-perform
 <h3 align="left">Technical Skills:</h3>
 <br>
 
-- 👨‍💻 **Programming Languages**: C#, Java, C++, Python, Go, PL/SQL  
+- 👨‍💻 **Programming Languages**: Java, C++, Python, Go, PL/SQL  
 - 👨‍💻 **Frontend Technologies**: HTML, CSS, JavaScript, Bootstrap, Angular, React, jQuery, AJAX  
 - 👨‍💻 **Backend Technologies**: .NET Core, ASP.NET MVC, Web API, WCF, Entity Framework, ADO.NET  
 - 👨‍💻 **Databases**: SQL Server, MySQL, PostgreSQL, MongoDB, Cassandra, Redis, Elasticsearch  
